@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1563214188 source:/media/waheed/01CFB2272F118620/communication/courses/c programming/projects/Stack/main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1563215076 /media/waheed/01CFB2272F118620/communication/courses/c programming/projects/Stack/stack.h
+
+1563213464 source:/media/waheed/01CFB2272F118620/communication/courses/c programming/projects/Stack/StackArray.c
+
+1563213442 source:/media/waheed/01CFB2272F118620/communication/courses/c programming/projects/Stack/StackLinked.c
+	"stack.h"
+	"stdlib.h"
+
+1563214855 source:/media/waheed/01CFB2272F118620/communication/courses/c programming/projects/Stack/Stack.c
+	"stack.h"
+	"stdlib.h"
+
