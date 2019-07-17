@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1563384795 source:/media/waheed/01CFB2272F118620/communication/courses/c programming/projects/Queue/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1563386034 source:/media/waheed/01CFB2272F118620/communication/courses/c programming/projects/Queue/Queue.c
+	"Queue.h"
+	"stdlib.h"
+
+1563386664 /media/waheed/01CFB2272F118620/communication/courses/c programming/projects/Queue/Queue.h
+
