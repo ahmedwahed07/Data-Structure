@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1563572954 source:/media/waheed/01CFB2272F118620/communication/courses/c programming/projects/List/List.c
+	"List.h"
+	<stdlib.h>
+
+1563572720 /media/waheed/01CFB2272F118620/communication/courses/c programming/projects/List/List.h
+
+1563572876 source:/media/waheed/01CFB2272F118620/communication/courses/c programming/projects/List/main.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
